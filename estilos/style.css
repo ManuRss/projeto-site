@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: rgb(158, 158, 240);
+    background-color: rgb(218, 219, 121);
 
 }
 
 main {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -31,22 +31,22 @@ h2 {
 
 h3 {
     font-size: 1.5em;
-    color: rgb(90, 90, 223);
+    color: rgb(223, 224, 123);
 }
 
 h4 {
     font-size: 1.5em;
-    color: rgb(90, 90, 223);
+    color: rgb(223, 224, 123);
 }
 
 h5 {
     font-size: 1.5em;
-    color: rgb(90, 90, 223);
+    color: rgb(223, 224, 123);
 }
 
 h6 {
     font-size: 1.5em;
-    color: rgb(90, 90, 223);
+    color: rgb(223, 224, 123);
 }
 
 img.lado {
